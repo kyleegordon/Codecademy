@@ -10,6 +10,7 @@ header
   color: khaki;
   text-align: center;
   background-image: url("pattern.webp");
+  margin: 20px;
 }
 
 .title
@@ -17,6 +18,7 @@ header
  font-size: 32px;
  font-weight: bold;
  color: white; 
+ margin: 5px;
 }
 
 #brushes
